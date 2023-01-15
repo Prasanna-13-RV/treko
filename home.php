@@ -151,8 +151,6 @@
 
    <!-- home offer section ends -->
 
-
-
    <!-- footer section starts  -->
 
    <footer style="

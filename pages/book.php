@@ -70,7 +70,6 @@
 
    <!-- header section ends -->
 
-   <!-- <div class="heading" style="background:url(../images/header-bg-3.png) no-repeat"> -->
    <div class="heading" style="background:url('https://media.istockphoto.com/id/178447404/photo/modern-business-buildings.jpg?s=612x612&w=0&k=20&c=MOG9lvRz7WjsVyW3IiQ0srEzpaBPDcc7qxYsBCvAUJs=') no-repeat">
       <h1>book now</h1>
    </div>
