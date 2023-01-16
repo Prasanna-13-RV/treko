@@ -15,7 +15,6 @@
 
    <!-- custom css file link  -->
    <link rel="stylesheet" href="../css/style.css">
-
 </head>
 
 <style>
@@ -58,9 +57,9 @@
    <!-- header section starts  -->
 
    <section class="header">
-      <a href="home.php" class="logo">Treko</a>
+      <a href="index.php" class="logo">Treko</a>
       <nav class="navbar">
-         <a href="../home.php">Home</a>
+         <a href="../index.php">Home</a>
          <a href="about.php">About</a>
          <a href="package.php">Package</a>
          <a href="book.php">Bookings</a>

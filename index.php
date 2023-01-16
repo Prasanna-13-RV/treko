@@ -24,10 +24,10 @@
 
    <section class="header">
 
-      <a href="home.php" class="logo">Treko</a>
+      <a href="index.php" class="logo">Treko</a>
 
       <nav class="navbar">
-         <a href="home.php">Home</a>
+         <a href="index.php">Home</a>
          <a href="./pages/about.php">About</a>
          <a href="./pages/package.php">Package</a>
          <a href="./pages/book.php">Bookings</a>

@@ -1,6 +1,6 @@
 <?php
 
-$connection = mysqli_connect('localhost', 'root', '', 'treko');
+$conn = mysqli_connect("sql109.epizy.com", "epiz_33389444", "ZtbMZj0c7mi", "epiz_33389444_treko");
 
 if (isset($_POST['send'])) {
    $name = $_POST['name'];

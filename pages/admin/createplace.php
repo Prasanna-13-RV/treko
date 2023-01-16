@@ -17,9 +17,9 @@
 <body>
    <!-- header section starts  -->
    <section class="header">
-      <a href="../../home.php" class="logo">Treko</a>
+      <a href="../../index.php" class="logo">Treko</a>
       <nav class="navbar">
-         <a href="../../home.php">home</a>
+         <a href="../../index.php">home</a>
          <a href="../about.php">about</a>
          <a href="../package.php">package</a>
          <a href="../book.php">book</a>

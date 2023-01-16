@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "treko"); //database connection  
+$conn = mysqli_connect("sql109.epizy.com", "epiz_33389444", "ZtbMZj0c7mi", "epiz_33389444_treko"); //database connection  
 //hostname, username, password, database name  
 if (!$conn) {
     echo "Error";
@@ -36,9 +36,9 @@ $result = mysqli_query($conn, $query);
     <!-- header section starts  -->
 
     <section class="header">
-        <a href="../../home.php" class="logo">Treko</a>
+        <a href="../../index.php" class="logo">Treko</a>
         <nav class="navbar">
-            <a href="../../home.php">home</a>
+            <a href="../../index.php">home</a>
             <a href="../about.php">about</a>
             <a href="../package.php">package</a>
             <a href="../book.php">book</a>
